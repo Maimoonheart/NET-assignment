@@ -1,0 +1,241 @@
+#overlay{
+    background-image: linear-gradient(0deg,rgba(10, 0, 0, 0.493) 50%, rgb(17, 13, 13) 110%), url(Image/NG-en-20231211-popsignuptwoweeks-perspective_alpha_website_small.jpg);
+     height: 75vh;
+     background-position: initial; 
+     background-repeat: no-repeat;
+     /* width: 400px;  */
+     background-size: cover; 
+  }
+.tv{
+  background-color: black;
+  margin-top: 5px;
+   display: flex;
+    gap: 90px;
+}
+#en{
+  font-weight: bold;
+  margin-top: 120px;
+}
+#wa{
+  font-weight: lighter;
+}
+#gif{
+  width: 29%;
+   margin-left: 550px; 
+   position: absolute; 
+   margin-top: 60px; 
+}
+#rem{
+  width: 25px;
+   margin-left: 772px;
+    position: absolute;
+     margin-top: 180px; 
+}
+.tv{
+  background-color: black;
+  margin-top: 5px;
+   height: 70vh;
+}
+.tv2{
+      background-color: black;
+    margin-top: 5px;
+     display: flex;
+      gap: 10px;
+      height: 80vh;
+  }
+  #down{
+    font-weight: bold;
+    margin-top: 100px;
+  }
+  #bile{
+    width: 70%;
+    /* margin-left: 00px;  */
+    /* margin-top: 10px; */
+  }
+
+  #transparent{
+    border: 2px #232323 solid;
+    margin-left: 115px;
+    background-color: black; 
+    border-radius: 8px;
+    margin-top: -150px; 
+  }
+#shot{
+  margin-left: -210px;
+  margin-top: -150px;
+}
+#tt{
+  line-height: 5px;
+   margin-left: 170px;
+    margin-top: -95px; 
+  font-size: small;
+}
+#icon{
+  margin-left: 270px;
+   margin-top: -70px;
+}
+.tv3{
+  background-color: black;
+  margin-top: 5px;
+   height: 50vh;
+   color: white;
+  
+}
+/* hjj */
+.tv4{
+  background-color: black; 
+  margin-top: 5px;
+   height: 70vh;
+   }
+   #bby{
+    margin-top: -200px;
+     width: 350px;
+     margin-left: 100px;
+   }
+   #story{
+    margin-top: 150px;
+     margin-left: 550px;
+    color: white;
+
+   }
+#accordionFlushExample{
+  width: 860px;
+   background-color: black;
+   margin-left: 100px;
+}
+
+
+  @media screen and (min-width:10px) and (max-width:480px) {
+
+    #overlay{
+      background-image: linear-gradient(0deg,rgba(10, 0, 0, 0.493) 50%, rgb(17, 13, 13) 110%), url(Image/NG-en-20231211-popsignuptwoweeks-perspective_alpha_website_small.jpg);
+       height: 35vh;
+       background-position: initial; 
+       background-repeat: no-repeat;
+       /* width: 400px;  */
+       background-size: cover; 
+    }
+ .hero{
+    display: block;
+ }
+ div,h1{
+    font-size: 15px;
+  }
+  div,h5{
+    font-size: 11px;
+  }
+  div,p{
+    font-size: 8px;
+  }
+  .inp{
+    width: 50px;
+  }
+  #bb{
+    margin-top: 5px;
+  }
+  .tv{
+        display: block;
+            height: 25vh;
+  }
+  #vv{
+    align-items: center;
+       margin-left: 120px;
+     }
+  #en{
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 30px;
+  }
+  #wa{
+    font-weight: lighter;
+    align-items: center;
+    margin-left: -40px;
+    justify-items: center;
+  }
+    #gif{
+    width: 29%;
+     margin-left: -145px; 
+     position: absolute; 
+     margin-top: 27px; 
+  }
+  #rem{
+    width: 13px;
+     margin-left: -43px;
+      position: absolute;
+       margin-top: 65px; 
+  }  
+.tv2{
+  background-color: black;
+margin-top: 5px;
+ display: block;
+  gap: 10px;
+  height: 40vh;
+}
+#down{
+font-weight: bold;
+margin-top: -250px;
+margin-left: 100px;
+}
+#down,h6{
+margin-left: 70px;
+}
+#bile{
+width: 70%;
+/* margin-left: 00px;  */
+margin-top: 120px;
+}
+
+#transparent{
+border: 2px #232323 solid;
+margin-left:60px;
+background-color: black; 
+border-radius: 8px;
+margin-top: -100px; 
+}
+#shot{
+margin-left: -210px;
+margin-top: -100px;
+}
+#tt{
+/* line-height: 5px; */
+margin-left: 120px;
+margin-top: -80px; 
+font-size: small;
+}
+
+#icon{
+margin-left: 220px;
+margin-top: -40px;
+}
+
+.tv3{
+  background-color: black;
+  margin-top: 5px;
+   height: 20vh;
+   color: white;
+  
+}
+/* hjnm */
+.tv4{
+  background-color: black; 
+  margin-top: 5px;
+   height: 40vh;
+   display: block;
+   }
+   #bby{
+    margin-top: 50px;
+     width: 350px;
+     margin-left: 50px;
+   }
+   #story{
+    margin-top: 50px;
+     margin-left: -50px;
+    color: white;
+    text-align: center;
+   }
+   #accordionFlushExample{
+    width: 360px;
+     background-color: black;
+     margin-left: 25px;
+  }
+  }
